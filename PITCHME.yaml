@@ -1,0 +1,18 @@
+#テーマの設定 black, moon, night, beige, sky, and white
+theme : moon
+
+#css
+theme-override: css/PITCHME.css
+#theme-override : assets/css/PITCHME.css
+
+#スライドのページ数表示の設定
+slide-number: true
+
+#コードのシンタックスハイライトの設定
+highlight : monokai
+
+#トランジションの設定 convex, concave, default, fade, none, slide and zoom
+transition : slide
+
+#チャート / グラフ機能の設定
+charts : true
