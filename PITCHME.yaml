@@ -1,9 +1,8 @@
 #テーマの設定 black, moon, night, beige, sky, and white
-theme : moon
+theme : night
 
 #css
-theme-override: css/PITCHME.css
-#theme-override : assets/css/PITCHME.css
+theme-override : assets/css/PITCHME.css
 
 #スライドのページ数表示の設定
 slide-number: true
